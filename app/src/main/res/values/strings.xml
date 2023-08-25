@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudyApp</string>
+    <string-array name="list">
+        <item>Пастернак</item>
+        <item>Бродский</item>
+        <item>Есенин</item>
+    </string-array>
+
+</resources>
